@@ -5,9 +5,9 @@ app:
 
 git:
   branch: main
-  repo: https://github.com/Summit23Janus1/evanshortiss-frontend
-  org: Summit23Janus1
-  name: evanshortiss-frontend
+  repo: https://github.com/Summit23Janus3/ryanj3-frontend
+  org: Summit23Janus3
+  name: ryanj3-frontend
 
 image:
   host: image-registry.openshift-image-registry.svc:5000
